@@ -143,7 +143,7 @@ export default function ContactForm() {
             className={inputClass("email")}
             value={values.email}
             onChange={(e) => update("email", e.target.value)}
-            placeholder="you@example.com"
+            placeholder="samikhanf4u@gmail.com"
           />
           {errors.email && <p className="mt-1 text-xs text-red-500">{errors.email}</p>}
         </div>
