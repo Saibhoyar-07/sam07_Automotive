@@ -25,8 +25,7 @@ export const businessInfo = {
   whatsapp: "918793033326",
   whatsappDisplay: "+91 87930 33326",
 
-  // ⚠️ PLACEHOLDER — replace with the real business email
-  email: "info@sam07automobile.example",
+  email: "samikhanf4u@gmail.com",
 
   address: "Krushi Nagar, 256, Dabha Rd",
   addressLine2: "Vayusena Nagar",
